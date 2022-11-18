@@ -1,9 +1,20 @@
 {
   "files": {
-    "main.js": "/din-hukommelse/static/js/main.31d6cfe0.js",
-    "index.html": "/din-hukommelse/index.html"
+    "main.css": "/din-hukommelse/static/css/main.7ce61b90.css",
+    "main.js": "/din-hukommelse/static/js/main.d8f98043.js",
+    "static/media/landsby.jpeg": "/din-hukommelse/static/media/landsby.07b08b7ee995bcf1beac.jpeg",
+    "static/media/nastja-01.jpg": "/din-hukommelse/static/media/nastja-01.73f0f5aee95a5655ea7f.jpg",
+    "static/media/mine-brdr.jpeg": "/din-hukommelse/static/media/mine-brdr.afea900c9d5f3c7c4df4.jpeg",
+    "static/media/stefan-01.jpg": "/din-hukommelse/static/media/stefan-01.12e9e6c85b7f92411045.jpg",
+    "static/media/stefan-02.jpg": "/din-hukommelse/static/media/stefan-02.7b258ac72f808ca8dedc.jpg",
+    "static/media/nongPort.jpg": "/din-hukommelse/static/media/nongPort.b39ee9f6c0e1ef946dc3.jpg",
+    "static/media/cover.jpg": "/din-hukommelse/static/media/cover.2dec247a0ab9c92a5b7f.jpg",
+    "index.html": "/din-hukommelse/index.html",
+    "main.7ce61b90.css.map": "/din-hukommelse/static/css/main.7ce61b90.css.map",
+    "main.d8f98043.js.map": "/din-hukommelse/static/js/main.d8f98043.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/css/main.7ce61b90.css",
+    "static/js/main.d8f98043.js"
   ]
 }
