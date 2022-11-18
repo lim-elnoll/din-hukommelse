@@ -1,6 +1,7 @@
 import './OneCard.css'
 import COVER from "../assets/cover.jpg"
 
+
 export default function OneCard({ myCard, handleChoice, flip, notFlip }) {
 
   const handleClick = () => {
